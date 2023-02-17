@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+
+    <string name="add_item">Add Item</string>
+    <string name="save_item">Save Item</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="item_saved">Item saved</string>
+    <string name="undo">Undo</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_item">Delete item</string>
+    <string name="sort">Sort</string>
+    <string name="sort_direction">Sort Direction</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="selected">Selected</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+
+    <!--Error Messages-->
+    <string name="todo_item_empty_title_message">The item is missing a title.</string>
+</resources>
